@@ -1,0 +1,39 @@
+
+/*------ header start ------*/
+.main-menu ul li a{
+    color: #FFB824 !important;
+}
+.main-menu ul li a:hover,.main-menu ul li .active{
+    color: #FF2176 !important;
+}
+.button-cutom{
+    color: #ffffff;
+    background-image: linear-gradient(to bottom, #FFB824 0%, #FF2176 100%);
+}
+/*------ header end ------*/
+/*------ banner start ------*/
+.banner{
+    background-color: #FEEAE8;
+}
+/*------ banner end ------*/
+/*------ Category start------*/
+.category{
+    padding: 80px 0;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1 a h1, .cat2 a h1,  .cat3 a h1{
+    color: black;
+}
+.cat1{
+    background-color: #ffc107;
+}
+.cat2{
+    background-color: chocolate;
+}
+.cat3{
+    background-color: rgb(145, 145, 224);
+}
+/*------ Category end ------*/
